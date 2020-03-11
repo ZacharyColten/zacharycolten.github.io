@@ -32,9 +32,10 @@
   "work": [
     {
       "company": "Fedex Express",
-      "position": "Chief Technology Officer / Lead Instructor",
+      "position": "Courier",
       "website": "https://www.fedex.com/en-us/home.html",
       "startDate": "2016-04-01",
+      "endDate": "2018-06-01",
       "summary": "Courier, living map function",
       "highlights": [
         "Deliver packages using the safest and most efficient process"
@@ -49,15 +50,11 @@
         "Teach all subjects to all ages"
       ]
     }
-
-
   ],
-
   "skills": [
     {
       "name": "Languages",
-      "keywords":
-      [
+      "keywords": [
         "JavaScript/Node.js",
         "Ruby",
         "PHP",
@@ -76,16 +73,12 @@
         "JavaScript/jQuery",
         "Express/Node.js",
         "Backbone/React + Redux",
-        "Rails",
-        "Laravel",
         "Bootstrap/Foundation/Material",
         "MongoDB",
         "MySQL/Postgres/Sqlite",
         "Authorization/Authentication",
         "Responsive/Mobile Development",
-        "Bokeh/Bokeh Server",
-        "Grunt/Gulp/Webpack",
-        "SASS/LESS/UglifyJS"
+        "Grunt/Gulp/Webpack"
       ]
     },
     {
@@ -100,7 +93,13 @@
         "Grunt/Gulp/WebPack",
         "REST APIs",
         "Automated SSL Certificates",
-        "Data Visualization"
+        "WebHosting",
+        "Linix command line",
+        "DNS and SSL",
+        "Cloud Servers and VPS",
+        "StudioPress",
+        "WordPress",
+        "SFTP, SSH"
       ]
     }
   ]
