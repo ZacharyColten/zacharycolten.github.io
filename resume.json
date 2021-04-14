@@ -56,9 +56,9 @@
       "name": "Languages",
       "keywords": [
         "JavaScript/Node.js",
-        "Java"
+        "Java",
         "SQL",
-        "NoSQL",
+        "NoSQL"
       ]
     },
     {
@@ -72,7 +72,7 @@
         "MongoDB",
         "MySQL/Postgres/Sqlite",
         "Authorization/Authentication",
-        "Responsive/Mobile Development",
+        "Responsive/Mobile Development"
       ]
     },
     {
