@@ -56,14 +56,9 @@
       "name": "Languages",
       "keywords": [
         "JavaScript/Node.js",
-        "Ruby",
-        "PHP",
-        "Python",
+        "Java"
         "SQL",
         "NoSQL",
-        "Bash",
-        "Linux",
-        "C#"
       ]
     },
     {
@@ -78,7 +73,6 @@
         "MySQL/Postgres/Sqlite",
         "Authorization/Authentication",
         "Responsive/Mobile Development",
-        "Grunt/Gulp/Webpack"
       ]
     },
     {
@@ -87,17 +81,12 @@
         "Continuous Integration",
         "Automated Deployment",
         "Automated Testing",
-        "AWS/Heroku/DigitalOcean",
-        "Heroku/Build Packs",
         "Git/GitHub",
-        "Grunt/Gulp/WebPack",
         "REST APIs",
         "Automated SSL Certificates",
         "WebHosting",
         "Linix command line",
         "DNS and SSL",
-        "Cloud Servers and VPS",
-        "StudioPress",
         "WordPress",
         "SFTP, SSH"
       ]
